@@ -45,7 +45,7 @@ export function Chrome({ tl, bl, onMenu, showProgress }) {
         <div className="progress"><i ref={bar} /></div>
       )}
       <a className="logo" href="#/" aria-label="Manual do Guarda-Roupa Masculino — início">
-        <img src="/logo.png" alt="Manual do Guarda-Roupa Masculino" />
+        <img src="logo.png" alt="Manual do Guarda-Roupa Masculino" />
       </a>
     </div>
   )
@@ -90,7 +90,7 @@ export function Menu({ open, onClose, hasProfile }) {
             ))}
           </nav>
           <div className="foot">
-            <img src="/logo.png" alt="Manual do Guarda-Roupa Masculino" style={{ height: 34, width: 'auto' }} />
+            <img src="logo.png" alt="Manual do Guarda-Roupa Masculino" style={{ height: 34, width: 'auto' }} />
             <a className="link-u" href="mailto:correioanticool@gmail.com">correioanticool@gmail.com</a>
           </div>
         </motion.div>
@@ -119,7 +119,7 @@ export function Intro({ onDone }) {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.9, ease: EASE }}
       >
-        <img src="/logo.png" alt="Manual do Guarda-Roupa Masculino" style={{ width: 'min(300px, 70vw)' }} />
+        <img src="logo.png" alt="Manual do Guarda-Roupa Masculino" style={{ width: 'min(300px, 70vw)' }} />
       </motion.div>
       <AnimatePresence>
         {i < STYLE_IDS.length && (

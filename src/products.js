@@ -12,7 +12,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.hering.com.br/camiseta-brasil-masculina-manga-curta-49fpn10en/p",
-  "img": "/img/pecas/p06-1.jpg",
+  "img": "img/pecas/p06-1.jpg",
   "styles": {
    "classico": 1,
    "bold": 1,
@@ -32,7 +32,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.hering.com.br/camiseta-masculina-fio-tinto-listrada-4kcm1den/p",
-  "img": "/img/pecas/p06-2.jpg",
+  "img": "img/pecas/p06-2.jpg",
   "styles": {
    "classico": 1,
    "bold": 1,
@@ -52,7 +52,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.hering.com.br/camiseta-masculina-fio-tinto-listrada-4kcm1den/p",
-  "img": "/img/pecas/p07-1.jpg",
+  "img": "img/pecas/p07-1.jpg",
   "styles": {
    "classico": 1,
    "bold": 1,
@@ -72,7 +72,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.hering.com.br/camiseta-masculina-em-trico-texturizado-lzgr1csi/p",
-  "img": "/img/pecas/p07-2.jpg",
+  "img": "img/pecas/p07-2.jpg",
   "styles": {
    "classico": 1,
    "bold": 1,
@@ -92,7 +92,7 @@ export const products = [
   "note": "Não é a melhor composição, mas está bonita e o preço é legal.",
   "intl": false,
   "url": "https://www.hering.com.br/camiseta-masculina-manga-curta-em-malha-thermal-4kfyn10en/p",
-  "img": "/img/pecas/p07-3.jpg",
+  "img": "img/pecas/p07-3.jpg",
   "styles": {
    "classico": 1,
    "bold": 1,
@@ -112,7 +112,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.highstil.com.br/products/camiseta-malha-slim-fit-branco-hs2036-0217",
-  "img": "/img/pecas/p07-4.jpg",
+  "img": "img/pecas/p07-4.jpg",
   "styles": {
    "classico": 1,
    "bold": 1.5,
@@ -132,7 +132,7 @@ export const products = [
   "note": "Tecido bom e cortes bonitos. Variedade GIGANTE de cores.",
   "intl": false,
   "url": "https://www.individual.com.br/camiseta-pima-slim-soft-touch-masculina-individual-rosa-medio-41-01-0115/p",
-  "img": "/img/pecas/p08-1.jpg",
+  "img": "img/pecas/p08-1.jpg",
   "styles": {
    "classico": 1,
    "bold": 1,
@@ -152,7 +152,7 @@ export const products = [
   "note": "Modelo mais solto. Zero justo.",
   "intl": false,
   "url": "https://www.zara.com/br/pt/camiseta-de-trico-refinado-p02621421.html?v1=546088063&v2=2510635",
-  "img": "/img/pecas/p08-2.jpg",
+  "img": "img/pecas/p08-2.jpg",
   "styles": {
    "classico": 1,
    "bold": 1,
@@ -172,7 +172,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.tailorsmind.com.br/collections/camisetas/products/camiseta-premium-gola-alta-1?_pos=1&_fid=49d01c608&_ss=c&variant=41090852028600",
-  "img": "/img/pecas/p09-1.jpg",
+  "img": "img/pecas/p09-1.jpg",
   "styles": {
    "classico": 1.8,
    "bold": 1.5,
@@ -192,7 +192,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.usereserva.com/camiseta-slim-canelada-0103873-037-656514/p",
-  "img": "/img/pecas/p09-2.jpg",
+  "img": "img/pecas/p09-2.jpg",
   "styles": {
    "classico": 1,
    "bold": 1,
@@ -212,7 +212,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.docthos.com.br/camiseta-docthos-slim-manga-curta-suedine-canelado-623-586578/p?skuId=911404",
-  "img": "/img/pecas/p09-3.jpg",
+  "img": "img/pecas/p09-3.jpg",
   "styles": {
    "classico": 1,
    "bold": 1,
@@ -232,7 +232,7 @@ export const products = [
   "note": "Composição não é ideal para clima muito quente.",
   "intl": false,
   "url": "https://www.foxtonbrasil.com.br/camiseta-tricot-saint-michel-vinho-terroso-7-09814-00733/p",
-  "img": "/img/pecas/p09-4.jpg",
+  "img": "img/pecas/p09-4.jpg",
   "styles": {
    "classico": 1,
    "bold": 1,
@@ -252,7 +252,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.highstil.com.br/products/camiseta-manga-longa-basica-malha-premium-slim-fit-bege-hs5040-2117",
-  "img": "/img/pecas/p10-1.jpg",
+  "img": "img/pecas/p10-1.jpg",
   "styles": {
    "classico": 1,
    "bold": 1.5,
@@ -272,7 +272,7 @@ export const products = [
   "note": "Para manga longa, prefira tricot a malha “normal”.",
   "intl": false,
   "url": "https://www.hering.com.br/camisa-masculina-henley-manga-longa-em-trico-lzgq1bsi/p",
-  "img": "/img/pecas/p10-2.jpg",
+  "img": "img/pecas/p10-2.jpg",
   "styles": {
    "classico": 1,
    "bold": 1,
@@ -292,7 +292,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/camiseta-estrutura-waffle-p04161400.html?v1=561076102&v2=2510635",
-  "img": "/img/pecas/p10-3.jpg",
+  "img": "img/pecas/p10-3.jpg",
   "styles": {
    "classico": 1,
    "bold": 1,
@@ -312,7 +312,7 @@ export const products = [
   "note": "Saindo do clássico...",
   "intl": false,
   "url": "https://www.youcom.com.br/camiseta-henley-muscle-p1191819?tsid=19&pp=/44.684/",
-  "img": "/img/pecas/p11-1.jpg",
+  "img": "img/pecas/p11-1.jpg",
   "styles": {
    "classico": 1,
    "bold": 2,
@@ -332,7 +332,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.youcom.com.br/muscle-tee-ribana-contrastante-p1195480?tsid=19&pp=/44.684/",
-  "img": "/img/pecas/p11-2.jpg",
+  "img": "img/pecas/p11-2.jpg",
   "styles": {
    "classico": 1,
    "bold": 2,
@@ -352,7 +352,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/camiseta-regata-lavada-p00722347.html?v1=576254437&v2=2510635",
-  "img": "/img/pecas/p11-3.jpg",
+  "img": "img/pecas/p11-3.jpg",
   "styles": {
    "classico": 1,
    "bold": 2,
@@ -372,7 +372,7 @@ export const products = [
   "note": "Ótimo custo-benefício para camisa, t-shirts e peças em tricot.",
   "intl": true,
   "url": "https://www.hawesandcurtis.co.uk/navy-knitted-linen-t-shirt-thphk002-g01",
-  "img": "/img/pecas/p12-1.jpg",
+  "img": "img/pecas/p12-1.jpg",
   "styles": {
    "classico": 1,
    "bold": 1,
@@ -392,7 +392,7 @@ export const products = [
   "note": "Mini luxo: textura 10/10 e o toque da seda.",
   "intl": true,
   "url": "https://suitsupply.com/en-gb/men/knitwear/light-blue-short-sleeve-crewneck/SW2076.html",
-  "img": "/img/pecas/p12-2.jpg",
+  "img": "img/pecas/p12-2.jpg",
   "styles": {
    "classico": 2.5,
    "bold": 1,
@@ -412,7 +412,7 @@ export const products = [
   "note": "Marca mais tradicional de camiseta básica. Cara — vale mais investir em uma de tricot.",
   "intl": true,
   "url": "https://www.sunspel.com/products/mens-short-sleeve-crew-neck-t-shirt-black?_gl=1*oexh35*_up*MQ..*_gs*MQ..&gclid=CjwKCAjw88HWBhA3EiwAo2Zd6KbU7PN_WmMX5phRMBx3GLIONiHNrkOpa1G_YpNMTXIKatorIJkKXxoCHgQQAvD_BwE&gbraid=0AAAAADltXAem2TDIS3jr_619ibc-d3vyy",
-  "img": "/img/pecas/p12-3.jpg",
+  "img": "img/pecas/p12-3.jpg",
   "styles": {
    "classico": 1,
    "bold": 1,
@@ -432,7 +432,7 @@ export const products = [
   "note": "Composição não é ideal para clima muito quente.",
   "intl": false,
   "url": "https://www.shopvilaromana.com.br/polo-napoli-de-tricot-canelado-marinho-polo-napoli-de-tricot-canelado-marinho-3080pcl00003-590/p",
-  "img": "/img/pecas/p14-1.jpg",
+  "img": "img/pecas/p14-1.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -452,7 +452,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.aramis.com.br/polo-manga-curta-gola-jacquard-friso-preto-po-01-2899-007/p",
-  "img": "/img/pecas/p14-2.jpg",
+  "img": "img/pecas/p14-2.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -472,7 +472,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.hering.com.br/polo-masculina-manga-curta-em-trico-lzkrn10si/p",
-  "img": "/img/pecas/p15-1.jpg",
+  "img": "img/pecas/p15-1.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -492,7 +492,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.hering.com.br/camisa-polo-masculina-em-malha-premium-3mbmnmcen/p",
-  "img": "/img/pecas/p15-2.jpg",
+  "img": "img/pecas/p15-2.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -512,7 +512,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/polo-regular-fit-estrutura-p00526447.html?v1=546071024&v2=2510691",
-  "img": "/img/pecas/p15-3.jpg",
+  "img": "img/pecas/p15-3.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -532,7 +532,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/polo-de-malha-com-ziper-p03284466.html?v1=546015119&v2=2510691",
-  "img": "/img/pecas/p15-4.jpg",
+  "img": "img/pecas/p15-4.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -552,7 +552,7 @@ export const products = [
   "note": "Tecido mais fino e texturizado.",
   "intl": false,
   "url": "https://www.usereserva.com/polo-slim-canelada-0103927-037-655743/p",
-  "img": "/img/pecas/p16-1.jpg",
+  "img": "img/pecas/p16-1.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -572,7 +572,7 @@ export const products = [
   "note": "O tecido está lindo.",
   "intl": false,
   "url": "https://www.usereserva.com/polo-tricot-flat-0103498-854-656248/p",
-  "img": "/img/pecas/p16-2.jpg",
+  "img": "img/pecas/p16-2.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -592,7 +592,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.usereserva.com/polo-ml-tricot-rugby-listrada-0103552-037-656270/p",
-  "img": "/img/pecas/p16-3.jpg",
+  "img": "img/pecas/p16-3.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -612,7 +612,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.usereserva.com/polo-regular-soft-touch-0101433-040-638350/p",
-  "img": "/img/pecas/p16-4.jpg",
+  "img": "img/pecas/p16-4.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -632,7 +632,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.foxtonbrasil.com.br/polo-tricot-movimento-grafite-7-11256-5179/p",
-  "img": "/img/pecas/p17-1.jpg",
+  "img": "img/pecas/p17-1.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -652,7 +652,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.foxtonbrasil.com.br/polo-pima-flex-fit-azul-mineral-7-10390-32321/p",
-  "img": "/img/pecas/p17-2.jpg",
+  "img": "img/pecas/p17-2.jpg",
   "styles": {
    "classico": 4.3,
    "bold": 0,
@@ -672,7 +672,7 @@ export const products = [
   "note": "Composição não é ideal para clima muito quente.",
   "intl": false,
   "url": "https://www.foxtonbrasil.com.br/polo-tricot-saint-michel-vinho-terroso-7-08054-00733/p",
-  "img": "/img/pecas/p17-3.jpg",
+  "img": "img/pecas/p17-3.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -692,7 +692,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.foxtonbrasil.com.br/polo-tricot-corda-new-azul-ink-7-10348-00416/p",
-  "img": "/img/pecas/p17-4.jpg",
+  "img": "img/pecas/p17-4.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -712,7 +712,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.tailorsmind.com.br/cdn/shop/files/TailorsEcomm33714.png?v=1773673628",
-  "img": "/img/pecas/p18-1.jpg",
+  "img": "img/pecas/p18-1.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -732,7 +732,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.tailorsmind.com.br/products/polo-tricot-sem-botao?variant=49574603718973",
-  "img": "/img/pecas/p18-2.jpg",
+  "img": "img/pecas/p18-2.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -752,7 +752,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.tailorsmind.com.br/products/polo-tricot-soft-3?variant=51015201161533",
-  "img": "/img/pecas/p18-3.jpg",
+  "img": "img/pecas/p18-3.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -772,7 +772,7 @@ export const products = [
   "note": "Ótimo custo-benefício. UK, mas entrega fora.",
   "intl": true,
   "url": "https://www.charlestyrwhitt.com/uk/cotton-textured-trophy-neck-knitted-polo---burgundy/KNT0019BGD.html?gad_source=1&cq_cmp=17796418797&gad_campaignid=17419734880&gclid=CjwKCAjw88HWBhA3EiwAo2Zd6JdineLvUMKeJoqU5cQIijj-4zGRDA3-pi7ceWIFm7btqeT8pGXCYRoCTXsQAvD_BwE&marketing=true&utm_campaign=UK-Shopping-Smart-shirts&cq_net=x&gbraid=0AAAAADrgWlxS67XfapED39JH0Zd7ZbaV7&marketingCode=ukpm99&utm_source=google&mm_rf=mm_4cbbd862aa76906ae369",
-  "img": "/img/pecas/p19-1.jpg",
+  "img": "img/pecas/p19-1.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -792,7 +792,7 @@ export const products = [
   "note": "Marca italiana. E-commerce próprio na Europa, UK e entrega nos EUA.",
   "intl": true,
   "url": "https://www.piniparma.com/en-gb/products/blue-ribbed-knit-polo-made-in-italy?currency=GBP&country=GB&variant=39797430550713&stkn=6d5f449a770c&gc_id=21137712604&h_ad_id=&utm_source=google_ads&utm_medium=cpc&utm_content=&device=c&keyword=&placement=&target=&tw_source=google&adposition=&matchtype=&network=x&tw_adid=&tw_campaign=21137712604&utm_campaign=welovedigital+google&ref=piniparma&gc_id=21137712604&h_ad_id=&utm_source=google&utm_medium=cpc&utm_campaign=&utm_content=%7Badid%7D&utm_term=&gclid=CjwKCAjw88HWBhA3EiwAo2Zd6HWyFpVFP0q-r4Ts2YvDJGW6f21IMJEfn1mFBYenr0NG6tufVBmZoBoCq5MQAvD_BwE&device=c&keyword=&placement=&target=&adposition=&matchtype=&network=x&extensionid=&feeditemid=&devicemodel=&gad_source=1&gad_campaignid=21137713414&gbraid=0AAAAADJmFpvB4Iq5eEwb10l03tIOoGDVz",
-  "img": "/img/pecas/p19-2.jpg",
+  "img": "img/pecas/p19-2.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -812,7 +812,7 @@ export const products = [
   "note": "A melhor marca de tricô de lã inglesa. Ultrafino e esquenta tanto que parece bruxaria.",
   "intl": true,
   "url": "https://www.johnsmedley.com/uk/cotswold-velvet-plum",
-  "img": "/img/pecas/p19-3.jpg",
+  "img": "img/pecas/p19-3.jpg",
   "styles": {
    "classico": 5.0,
    "bold": 0,
@@ -832,7 +832,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.shopvilaromana.com.br/tricot-gola-careca-com-ponto-trancado-khaki-tricot-gola-careca-com-ponto-trancado-khaki-3082ccp00002-720/p",
-  "img": "/img/pecas/p21-1.jpg",
+  "img": "img/pecas/p21-1.jpg",
   "styles": {
    "classico": 2,
    "bold": 0,
@@ -852,7 +852,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.shopvilaromana.com.br/sweater-ralph-cinza-3084ecz00002-980/p",
-  "img": "/img/pecas/p21-2.jpg",
+  "img": "img/pecas/p21-2.jpg",
   "styles": {
    "classico": 2,
    "bold": 0,
@@ -872,7 +872,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.shopvilaromana.com.br/sweater-tommy-preto-3082ccp00007-987/p",
-  "img": "/img/pecas/p21-3.jpg",
+  "img": "img/pecas/p21-3.jpg",
   "styles": {
    "classico": 2,
    "bold": 0,
@@ -892,7 +892,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.shopvilaromana.com.br/sweater-tricot-sweater-tricot-3081bcv00013-385/p",
-  "img": "/img/pecas/p21-4.jpg",
+  "img": "img/pecas/p21-4.jpg",
   "styles": {
    "classico": 2,
    "bold": 0,
@@ -912,7 +912,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.tailorsmind.com.br/collections/sueters/products/tricot-meio-ziper-3?variant=51820912410941",
-  "img": "/img/pecas/p22-1.jpg",
+  "img": "img/pecas/p22-1.jpg",
   "styles": {
    "classico": 2,
    "bold": 0,
@@ -932,7 +932,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.highstil.com.br/products/tricot-gola-careca-slim-fit-verde-013694-r092",
-  "img": "/img/pecas/p22-2.jpg",
+  "img": "img/pecas/p22-2.jpg",
   "styles": {
    "classico": 2,
    "bold": 0,
@@ -952,7 +952,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zak.com.br/tricot-masculino-half-zip-canelado-cinza-mescla-67",
-  "img": "/img/pecas/p22-3.jpg",
+  "img": "img/pecas/p22-3.jpg",
   "styles": {
    "classico": 2,
    "bold": 0,
@@ -972,7 +972,7 @@ export const products = [
   "note": "Preço legal, então é ok.",
   "intl": false,
   "url": "https://www.zak.com.br/tricot-half-ziper-cinza-mescla-67?cor=1733&cornome=CINZA%20MESCLA%2067",
-  "img": "/img/pecas/p22-4.jpg",
+  "img": "img/pecas/p22-4.jpg",
   "styles": {
    "classico": 2,
    "bold": 0,
@@ -992,7 +992,7 @@ export const products = [
   "note": "Bem fresco.",
   "intl": false,
   "url": "https://www.zara.com/br/pt/polo-de-trico-regular-fit-em-algodao-e-linho-p03920398.html?v1=547556953&v2=2510691",
-  "img": "/img/pecas/p23-1.jpg",
+  "img": "img/pecas/p23-1.jpg",
   "styles": {
    "classico": 2,
    "bold": 0,
@@ -1012,7 +1012,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/polo-de-trico-regular-fit-p03920473.html?v1=546070937&v2=2510691",
-  "img": "/img/pecas/p23-2.jpg",
+  "img": "img/pecas/p23-2.jpg",
   "styles": {
    "classico": 5.0,
    "bold": 0,
@@ -1032,7 +1032,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.usereserva.com/sueter-tricot-sienna-0103346-036-656398/p",
-  "img": "/img/pecas/p23-3.jpg",
+  "img": "img/pecas/p23-3.jpg",
   "styles": {
    "classico": 2,
    "bold": 0,
@@ -1052,7 +1052,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.usereserva.com/tricot-meio-ziper-max-0100615-926-638101/p",
-  "img": "/img/pecas/p23-4.jpg",
+  "img": "img/pecas/p23-4.jpg",
   "styles": {
    "classico": 2,
    "bold": 0,
@@ -1072,7 +1072,7 @@ export const products = [
   "note": "Fast fashion premium: modelos atemporais e muito material natural.",
   "intl": true,
   "url": "https://www.cos.com/en-gb/men/menswear/knitwear/jumpers/wool/product/ribbed-wool-half-zip-jumper-brown-1293313003",
-  "img": "/img/pecas/p24-1.jpg",
+  "img": "img/pecas/p24-1.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -1092,7 +1092,7 @@ export const products = [
   "note": "Entre Uniqlo e COS, invista um pouco mais na COS para tricot 100% lã.",
   "intl": true,
   "url": "https://www.cos.com/en-gb/men/menswear/knitwear/jumpers/wool/product/wool-mock-neck-jumper-grey-1353208001",
-  "img": "/img/pecas/p24-2.jpg",
+  "img": "img/pecas/p24-2.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -1112,7 +1112,7 @@ export const products = [
   "note": "",
   "intl": true,
   "url": "https://www.cos.com/en-gb/men/menswear/knitwear/jumpers/merino/product/merino-wool-zip-up-funnel-neck-jumper-black-1336379002",
-  "img": "/img/pecas/p24-3.jpg",
+  "img": "img/pecas/p24-3.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -1132,7 +1132,7 @@ export const products = [
   "note": "",
   "intl": true,
   "url": "https://www.cos.com/en-gb/men/menswear/knitwear/jumpers/product/waffle-knit-wool-polo-jumper-cream-1353156001",
-  "img": "/img/pecas/p24-4.jpg",
+  "img": "img/pecas/p24-4.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -1152,7 +1152,7 @@ export const products = [
   "note": "",
   "intl": true,
   "url": "https://www.octobre-editions.com/en-en/product/oliver-sweater/ecru#size-XS",
-  "img": "/img/pecas/p25-1.jpg",
+  "img": "img/pecas/p25-1.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -1172,7 +1172,7 @@ export const products = [
   "note": "",
   "intl": true,
   "url": "https://www.octobre-editions.com/en-en/product/berwick-torsade-sweater/light-olive-green#size-XS",
-  "img": "/img/pecas/p25-2.jpg",
+  "img": "img/pecas/p25-2.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -1192,7 +1192,7 @@ export const products = [
   "note": "Marca francesa do mesmo grupo da Sézane. Básicos com muita personalidade.",
   "intl": true,
   "url": "https://www.octobre-editions.com/en-en/product/faldo-sweater/red#size-XS",
-  "img": "/img/pecas/p25-3.jpg",
+  "img": "img/pecas/p25-3.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0.5,
@@ -1212,7 +1212,7 @@ export const products = [
   "note": "",
   "intl": true,
   "url": "https://www.octobre-editions.com/en-en/product/pull-bulter/green#size-XS",
-  "img": "/img/pecas/p25-4.jpg",
+  "img": "img/pecas/p25-4.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -1232,7 +1232,7 @@ export const products = [
   "note": "",
   "intl": true,
   "url": "https://www.octobre-editions.com/en-en/product/kyle-sweater/navy#size-XS",
-  "img": "/img/pecas/p25-5.jpg",
+  "img": "img/pecas/p25-5.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -1252,7 +1252,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.riachuelo.com.br/produto/camisa-sarja-masculina-regular-bolsos-bege-pool-jeans-15773361_sku_sku_bege",
-  "img": "/img/pecas/p27-1.jpg",
+  "img": "img/pecas/p27-1.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -1272,7 +1272,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.riachuelo.com.br/produto/camisa-masculina-cargo-flanelada-verde-16165284_sku_sku_marrom-escuro",
-  "img": "/img/pecas/p27-2.jpg",
+  "img": "img/pecas/p27-2.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -1292,7 +1292,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.riachuelo.com.br/camisa-masculina-flanelada-regular-xadrez-multicor-16204565_sku_sku",
-  "img": "/img/pecas/p28-1.jpg",
+  "img": "img/pecas/p28-1.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0.5,
@@ -1312,7 +1312,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.riachuelo.com.br/camisa-masculina-regular-flanelada-xadrez-marrom-16120493_sku_sku",
-  "img": "/img/pecas/p28-2.jpg",
+  "img": "img/pecas/p28-2.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0.5,
@@ -1332,7 +1332,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.riachuelo.com.br/camisa-jeans-masculina-com-bolso-denim-claro-pool-jeans-16166060_sku_sku",
-  "img": "/img/pecas/p28-3.jpg",
+  "img": "img/pecas/p28-3.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0.5,
@@ -1352,7 +1352,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.cea.com.br/camisa-masculina-de-algodao-manga-longa-xadrez-preta-1104334-preto/p",
-  "img": "/img/pecas/p28-4.jpg",
+  "img": "img/pecas/p28-4.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -1372,7 +1372,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.cea.com.br/camisa-masculina-de-algodao-manga-longa-texturizada-marrom-1084270-marrom_esc/p",
-  "img": "/img/pecas/p29-1.jpg",
+  "img": "img/pecas/p29-1.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -1392,7 +1392,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.cea.com.br/camisa-masculina-de-algodao-xadrez-preta-1103305-preto/p",
-  "img": "/img/pecas/p29-2.jpg",
+  "img": "img/pecas/p29-2.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -1412,7 +1412,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.cea.com.br/camisa-masculina-de-algodao-manga-longa-com-bolsos-xadrez-colorida-1040843-branco_1/p",
-  "img": "/img/pecas/p29-3.jpg",
+  "img": "img/pecas/p29-3.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -1432,7 +1432,7 @@ export const products = [
   "note": "Modelagem “boxy”.",
   "intl": false,
   "url": "https://www.cea.com.br/camisa-overshirt-masculina-de-sarja-manga-longa-marrom-1083514-camel/p",
-  "img": "/img/pecas/p29-4.jpg",
+  "img": "img/pecas/p29-4.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -1452,7 +1452,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.hm.com.br/camisa-oxford-regular-fit-1257417051/p",
-  "img": "/img/pecas/p30-1.jpg",
+  "img": "img/pecas/p30-1.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0.5,
@@ -1472,7 +1472,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.hm.com.br/camisa-utilitaria-regular-fit-1316949001-244740/p",
-  "img": "/img/pecas/p30-2.jpg",
+  "img": "img/pecas/p30-2.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0.5,
@@ -1492,7 +1492,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.hm.com.br/camisa-overshirt-utilitaria-em-sarja-de-algodao-1307176001-127283/p",
-  "img": "/img/pecas/p30-3.jpg",
+  "img": "img/pecas/p30-3.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0.5,
@@ -1512,7 +1512,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.riachuelo.com.br/produto/camisa-masculina-true-linen-em-linho-manga-longa-original-by-riachuelo-15580008_sku_sku_preto-mescla",
-  "img": "/img/pecas/p31-1.jpg",
+  "img": "img/pecas/p31-1.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -1532,7 +1532,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.riachuelo.com.br/produto/camisa-masculina-soft-linen-em-linho-manga-longa-original-by-riachuelo-15828883_sku_sku_rosa",
-  "img": "/img/pecas/p31-2.jpg",
+  "img": "img/pecas/p31-2.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -1552,7 +1552,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.riachuelo.com.br/produto/camisa-masculina-manga-longa-com-linho-e-bolsos-16383966_sku_sku_azul",
-  "img": "/img/pecas/p31-3.jpg",
+  "img": "img/pecas/p31-3.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0.5,
@@ -1572,7 +1572,7 @@ export const products = [
   "note": "Melhor custo-benefício em 100% linho: bom tecido, corte e acabamento. Várias cores.",
   "intl": false,
   "url": "https://www.zara.com/br/pt/camisa-regular-fit-100-linho-p01957102.html?v1=548830480&v2=2510621",
-  "img": "/img/pecas/p31-4.jpg",
+  "img": "img/pecas/p31-4.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -1592,7 +1592,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.hm.com.br/camisa-em-linho-fresco-com-colarinho-cutaway-frente-lisa-e-pala-na-parte-superior-das-costas-mang-1258123003/p",
-  "img": "/img/pecas/p32-1.jpg",
+  "img": "img/pecas/p32-1.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -1612,7 +1612,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/camisa-relaxed-fit-com-relevo-p07380152.html?v1=553294728&v2=2510621",
-  "img": "/img/pecas/p32-2.jpg",
+  "img": "img/pecas/p32-2.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -1632,7 +1632,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/camisa-regular-fit-lyocell---algodao-p06887301.html?v1=545995588&v2=2510621",
-  "img": "/img/pecas/p32-3.jpg",
+  "img": "img/pecas/p32-3.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -1652,7 +1652,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/camisa-western-ayrton-senna-p04761540.html?v1=600671779&v2=2510621",
-  "img": "/img/pecas/p33-1.jpg",
+  "img": "img/pecas/p33-1.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -1672,7 +1672,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/camisa-relax-fit-com-patches-p07200340.html?v1=551042206&v2=2510621",
-  "img": "/img/pecas/p33-2.jpg",
+  "img": "img/pecas/p33-2.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -1692,7 +1692,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/camisa-de-estrutura-oxford-p03277400.html?v1=545999449&v2=2510621",
-  "img": "/img/pecas/p33-3.jpg",
+  "img": "img/pecas/p33-3.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -1712,7 +1712,7 @@ export const products = [
   "note": "Estilo mais despojado.",
   "intl": false,
   "url": "https://www.zara.com/br/pt/camisa-relax-fit-100-linho-p01063417.html?v1=548756650&v2=2510621",
-  "img": "/img/pecas/p33-4.jpg",
+  "img": "img/pecas/p33-4.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -1732,7 +1732,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/camisa-relax-fit-listrada-p05679319.html?v1=552855161&v2=2510621",
-  "img": "/img/pecas/p34-1.jpg",
+  "img": "img/pecas/p34-1.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -1752,7 +1752,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/camisa-listrada-relaxed-fit-p00975406.html?v1=546177202&v2=2510621",
-  "img": "/img/pecas/p34-2.jpg",
+  "img": "img/pecas/p34-2.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -1772,7 +1772,7 @@ export const products = [
   "note": "Esquenta mais.",
   "intl": false,
   "url": "https://www.zara.com/br/pt/camisa-de-veludo-cotele-xadrez-p03715207.html?v1=553024361&v2=2510621",
-  "img": "/img/pecas/p34-3.jpg",
+  "img": "img/pecas/p34-3.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 1,
@@ -1792,7 +1792,7 @@ export const products = [
   "note": "Ótimo custo-benefício e várias cores.",
   "intl": true,
   "url": "https://www.uniqlo.com/uk/en/products/E457428-000/00?colorDisplayCode=69&sizeDisplayCode=004",
-  "img": "/img/pecas/p35-1.jpg",
+  "img": "img/pecas/p35-1.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -1812,7 +1812,7 @@ export const products = [
   "note": "",
   "intl": true,
   "url": "https://www.octobre-editions.com/en-en/product/stone-velours-cotele-overshirt/mauve#size-XS",
-  "img": "/img/pecas/p35-2.jpg",
+  "img": "img/pecas/p35-2.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -1832,7 +1832,7 @@ export const products = [
   "note": "Marca francesa IMPECÁVEL.",
   "intl": true,
   "url": "https://www.octobre-editions.com/en-en/product/ethan-shirt/rust#size-XS",
-  "img": "/img/pecas/p35-3.jpg",
+  "img": "img/pecas/p35-3.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -1852,7 +1852,7 @@ export const products = [
   "note": "",
   "intl": true,
   "url": "https://www.octobre-editions.com/en-en/product/charlie-oversize-shirt/faded-green#size-XS",
-  "img": "/img/pecas/p35-4.jpg",
+  "img": "img/pecas/p35-4.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -1872,7 +1872,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.riachuelo.com.br/produto/camisa-social-masculina-em-algod-o-original-by-riachuelo-14774100_sku_sku_branco",
-  "img": "/img/pecas/p37-1.jpg",
+  "img": "img/pecas/p37-1.jpg",
   "styles": {
    "classico": 4.5,
    "bold": 0,
@@ -1892,7 +1892,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.cea.com.br/camisa-social-masculina-comfort-de-algodao-dobby-azul-1110316-azul_cl4/p",
-  "img": "/img/pecas/p37-2.jpg",
+  "img": "img/pecas/p37-2.jpg",
   "styles": {
    "classico": 4.5,
    "bold": 0,
@@ -1912,7 +1912,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/camisa-slim-fit-listrada-p00975188.html?v1=576262882&v2=2510621",
-  "img": "/img/pecas/p37-3.jpg",
+  "img": "img/pecas/p37-3.jpg",
   "styles": {
    "classico": 4.5,
    "bold": 0,
@@ -1932,7 +1932,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.richards.com.br/produto/camisa-caicos-rosa-199641",
-  "img": "/img/pecas/p37-4.jpg",
+  "img": "img/pecas/p37-4.jpg",
   "styles": {
    "classico": 4.5,
    "bold": 0,
@@ -1952,7 +1952,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.richards.com.br/produto/camisa-fil-a-fil-lucas-ml-rosa-197229",
-  "img": "/img/pecas/p38-1.jpg",
+  "img": "img/pecas/p38-1.jpg",
   "styles": {
    "classico": 4.5,
    "bold": 0,
@@ -1972,7 +1972,7 @@ export const products = [
   "note": "Em camisa social, priorize marcas tradicionais: especialistas, boa grade de tamanhos, mais qualidade.",
   "intl": false,
   "url": "https://www.dudalina.com.br/camisa-slim-fit-fio-egipcio-dudalina-masculina-azul-claro-53-06-5591/p",
-  "img": "/img/pecas/p38-2.jpg",
+  "img": "img/pecas/p38-2.jpg",
   "styles": {
    "classico": 5.3,
    "bold": 0,
@@ -1992,7 +1992,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.dudalina.com.br/camisa-milano-fit-maquinetada-stretch-dudalina-masculina-azul-claro-53-07-0604/p",
-  "img": "/img/pecas/p38-3.jpg",
+  "img": "img/pecas/p38-3.jpg",
   "styles": {
    "classico": 4.5,
    "bold": 0,
@@ -2012,7 +2012,7 @@ export const products = [
   "note": "Não amassa.",
   "intl": false,
   "url": "https://www.dudalina.com.br/camisa-slim-fit-wrinkle-free-dudalina-masculina-branco--1101259-53-01-0302/p",
-  "img": "/img/pecas/p38-4.jpg",
+  "img": "img/pecas/p38-4.jpg",
   "styles": {
    "classico": 4.5,
    "bold": 0,
@@ -2032,7 +2032,7 @@ export const products = [
   "note": "Excelente custo-benefício: mil cores, tecidos e modelagens.",
   "intl": true,
   "url": "https://www.charlestyrwhitt.com/uk/non-iron-stretch-trafalgar-weave-shirt---white/FOA0020WHT.html?cgid=shirts&pf=browse&dwvar_FOA0020WHT_variation-fit=classic_fit&mm_rf=mm_4cbbd862aa76906ae369#cgid=shirts&start=1",
-  "img": "/img/pecas/p39-1.jpg",
+  "img": "img/pecas/p39-1.jpg",
   "styles": {
    "classico": 4.5,
    "bold": 0,
@@ -2052,7 +2052,7 @@ export const products = [
   "note": "Excelente custo-benefício: mil cores, tecidos e modelagens.",
   "intl": true,
   "url": "https://www.hawesandcurtis.co.uk/non-iron-blue-dobby-slim-shirt-windsor-collar-srpra001-b01",
-  "img": "/img/pecas/p39-2.jpg",
+  "img": "img/pecas/p39-2.jpg",
   "styles": {
    "classico": 4.5,
    "bold": 0,
@@ -2072,7 +2072,7 @@ export const products = [
   "note": "Marca francesa + premium. Várias opções de tecido, corte, etc.",
   "intl": true,
   "url": "https://www.figaret.com/en/collections/men-s-shirts",
-  "img": "/img/pecas/p39-3.jpg",
+  "img": "img/pecas/p39-3.jpg",
   "styles": {
    "classico": 4.5,
    "bold": 0,
@@ -2092,7 +2092,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/camisa-ampla-denim-com-bolsos-p07484356.html?v1=547464347&v2=2510621",
-  "img": "/img/pecas/p41-1.jpg",
+  "img": "img/pecas/p41-1.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -2112,7 +2112,7 @@ export const products = [
   "note": "Lindíssima com capuz.",
   "intl": false,
   "url": "https://www.zara.com/br/pt/camisa-ampla-listrada-com-capuz-algodao---linho-p07484355.html?v1=547464346&v2=2510621",
-  "img": "/img/pecas/p41-2.jpg",
+  "img": "img/pecas/p41-2.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -2132,7 +2132,7 @@ export const products = [
   "note": "Esse amarelo, socorro! Alguém faça o favor de comprar essa.",
   "intl": false,
   "url": "https://www.zara.com/br/pt/camisa-comprida-relax-fit-estrutura-lavada-p06887100.html?v1=555157462&v2=2510621",
-  "img": "/img/pecas/p41-3.jpg",
+  "img": "img/pecas/p41-3.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -2152,7 +2152,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/camisa-ampla-regular-fit-lavada-p01437484.html?v1=546148194&v2=2510621",
-  "img": "/img/pecas/p41-4.jpg",
+  "img": "img/pecas/p41-4.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -2172,7 +2172,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/camisa-ampla-100-linho-com-ziper-p08281112.html?v1=546176998&v2=2510621",
-  "img": "/img/pecas/p42-1.jpg",
+  "img": "img/pecas/p42-1.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -2192,7 +2192,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/camisa-ampla-textura-pespointos-p07200242.html?v1=545999881&v2=2510621",
-  "img": "/img/pecas/p42-2.jpg",
+  "img": "img/pecas/p42-2.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -2212,7 +2212,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/camisa-ampla-100-linho-com-ziper-p08281112.html?v1=546176998&v2=2510621",
-  "img": "/img/pecas/p42-3.jpg",
+  "img": "img/pecas/p42-3.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -2232,7 +2232,7 @@ export const products = [
   "note": "Atenção: gola de couro fake. Mas pelo preço, ok.",
   "intl": false,
   "url": "https://www.zara.com/br/pt/camisa-ampla-gola-contraste-p08281754.html?v1=546163621&v2=2510621",
-  "img": "/img/pecas/p43-1.jpg",
+  "img": "img/pecas/p43-1.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 1,
@@ -2252,7 +2252,7 @@ export const products = [
   "note": "Gola lindíssima e moderna.",
   "intl": false,
   "url": "https://www.zara.com/br/pt/camisa-ampla-tecnica-leve-regular-fit-p08281652.html?v1=562480412&v2=2510672",
-  "img": "/img/pecas/p43-2.jpg",
+  "img": "img/pecas/p43-2.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -2272,7 +2272,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/jaqueta-regular-fit-algodao-p04028179.html?v1=563487468&v2=2510672",
-  "img": "/img/pecas/p44-1.jpg",
+  "img": "img/pecas/p44-1.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -2292,7 +2292,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/jaqueta-gola-contrastante-p06318403.html?v1=545999855&v2=2510672",
-  "img": "/img/pecas/p44-2.jpg",
+  "img": "img/pecas/p44-2.jpg",
   "styles": {
    "classico": 2.0,
    "bold": 0,
@@ -2312,7 +2312,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/jaqueta-lavada-com-gola-combinada-p03692392.html?v1=561070884&v2=2510672",
-  "img": "/img/pecas/p44-3.jpg",
+  "img": "img/pecas/p44-3.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -2332,7 +2332,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/camisa-ampla-gola-contraste-p08281754.html?v1=546163621&v2=2510621",
-  "img": "/img/pecas/p45-1.jpg",
+  "img": "img/pecas/p45-1.jpg",
   "styles": {
    "classico": 2.0,
    "bold": 0,
@@ -2352,7 +2352,7 @@ export const products = [
   "note": "Tecido técnico/impermeável — aqui é ok. Vale esperar promoção.",
   "intl": false,
   "url": "https://www.usereserva.com/parka-impermeavel-scott-0103423-036-656419/p",
-  "img": "/img/pecas/p45-2.jpg",
+  "img": "img/pecas/p45-2.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -2372,7 +2372,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.tailorsmind.com.br/products/jaqueta-sarja?variant=51568795975997#thumb-50837382594877",
-  "img": "/img/pecas/p45-3.jpg",
+  "img": "img/pecas/p45-3.jpg",
   "styles": {
    "classico": 1.5,
    "bold": 0,
@@ -2392,7 +2392,7 @@ export const products = [
   "note": "Belíssima, mas 92% poliéster é muito pelo preço. Aguarde promoção: entre R$ 500 e R$ 700 faz mais sentido.",
   "intl": false,
   "url": "https://www.usereserva.com/jaqueta-voga-0103433-972-656243/p",
-  "img": "/img/pecas/p46-1.jpg",
+  "img": "img/pecas/p46-1.jpg",
   "styles": {
    "classico": 1.5,
    "bold": 0,
@@ -2412,7 +2412,7 @@ export const products = [
   "note": "",
   "intl": true,
   "url": "https://www.barbour.com/gb/ashby-waxed-jacket-MWX0339OL71.html",
-  "img": "/img/pecas/p47-1.jpg",
+  "img": "img/pecas/p47-1.jpg",
   "styles": {
    "classico": 2.0,
    "bold": 0,
@@ -2432,7 +2432,7 @@ export const products = [
   "note": "",
   "intl": true,
   "url": "https://www.barbour.com/gb/ashby-waxed-jacket-MWX0339OL71.html",
-  "img": "/img/pecas/p47-2.jpg",
+  "img": "img/pecas/p47-2.jpg",
   "styles": {
    "classico": 0.5,
    "bold": 0,
@@ -2452,7 +2452,7 @@ export const products = [
   "note": "",
   "intl": true,
   "url": "https://uk.baracuta.com/products/baracuta-g9-harrington-jacket-brcps3001ut3124-309",
-  "img": "/img/pecas/p47-3.jpg",
+  "img": "img/pecas/p47-3.jpg",
   "styles": {
    "classico": 2.0,
    "bold": 0,
@@ -2472,7 +2472,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/camisa-ampla-de-couro-e-suede-p08281465.html?v1=545999686&v2=2510621",
-  "img": "/img/pecas/p49-1.jpg",
+  "img": "img/pecas/p49-1.jpg",
   "styles": {
    "classico": 1,
    "bold": 2.5,
@@ -2492,7 +2492,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/jaqueta-couro-suede-regular-fit-p08281304.html?v1=546003775&v2=2510672",
-  "img": "/img/pecas/p49-2.jpg",
+  "img": "img/pecas/p49-2.jpg",
   "styles": {
    "classico": 1,
    "bold": 2.5,
@@ -2512,7 +2512,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/jaqueta-de-couro-croute-p08281309.html?v1=546130658&v2=2510672",
-  "img": "/img/pecas/p49-3.jpg",
+  "img": "img/pecas/p49-3.jpg",
   "styles": {
    "classico": 1,
    "bold": 2.5,
@@ -2532,7 +2532,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/camisa-ampla-regular-fit-suede-de-couro-p04416502.html?v1=546003942&v2=2510672",
-  "img": "/img/pecas/p49-4.jpg",
+  "img": "img/pecas/p49-4.jpg",
   "styles": {
    "classico": 1,
    "bold": 2.5,
@@ -2552,7 +2552,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/jaqueta-com-estrutura-e-contraste-p04135267.html?v1=546008480&v2=2510672",
-  "img": "/img/pecas/p50-1.jpg",
+  "img": "img/pecas/p50-1.jpg",
   "styles": {
    "classico": 2.5,
    "bold": 1.5,
@@ -2572,7 +2572,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.foxtonbrasil.com.br/jaqueta-alemanha-mogno-7-10979-00409/p",
-  "img": "/img/pecas/p50-2.jpg",
+  "img": "img/pecas/p50-2.jpg",
   "styles": {
    "classico": 2.5,
    "bold": 1.5,
@@ -2592,7 +2592,7 @@ export const products = [
   "note": "",
   "intl": true,
   "url": "https://www.allsaints.com/menswear/dellcot-suede-jacket/M027LD-5870.html",
-  "img": "/img/pecas/p51-1.jpg",
+  "img": "img/pecas/p51-1.jpg",
   "styles": {
    "classico": 1,
    "bold": 2.5,
@@ -2612,7 +2612,7 @@ export const products = [
   "note": "Gosto muito das jaquetas de couro dessa marca.",
   "intl": true,
   "url": "https://www.allsaints.com/menswear/milo-asymmetric-zip-leather-biker-jacket/ML025N-5.html",
-  "img": "/img/pecas/p51-2.jpg",
+  "img": "img/pecas/p51-2.jpg",
   "styles": {
    "classico": 1,
    "bold": 2.5,
@@ -2632,7 +2632,7 @@ export const products = [
   "note": "Inglesa, com loja física na Europa.",
   "intl": true,
   "url": "https://www.allsaints.com/menswear/hays-leather-biker-patch-jacket/M034LE-839.html",
-  "img": "/img/pecas/p51-3.jpg",
+  "img": "img/pecas/p51-3.jpg",
   "styles": {
    "classico": 1,
    "bold": 2.5,
@@ -2652,7 +2652,7 @@ export const products = [
   "note": "",
   "intl": true,
   "url": "https://www.allsaints.com/menswear/holt-slim-fit-leather-jacket/M012LF-5.html",
-  "img": "/img/pecas/p51-4.jpg",
+  "img": "img/pecas/p51-4.jpg",
   "styles": {
    "classico": 1,
    "bold": 2.5,
@@ -2672,7 +2672,7 @@ export const products = [
   "note": "",
   "intl": true,
   "url": "https://www.allsaints.com/menswear/maso-padded-jacket/MJ157Y-8253.html",
-  "img": "/img/pecas/p51-5.jpg",
+  "img": "img/pecas/p51-5.jpg",
   "styles": {
    "classico": 1,
    "bold": 1.5,
@@ -2692,7 +2692,7 @@ export const products = [
   "note": "Marca clássica inglesa.",
   "intl": true,
   "url": "https://www.reiss.com/style/sv107821/g40119",
-  "img": "/img/pecas/p52-1.jpg",
+  "img": "img/pecas/p52-1.jpg",
   "styles": {
    "classico": 2.5,
    "bold": 1.5,
@@ -2712,7 +2712,7 @@ export const products = [
   "note": "Marca francesa: um clássico cool, qualidade ótima e vive em promoção.",
   "intl": true,
   "url": "https://fr.sandro-paris.com/fr/p/manteau-droit-en-laine-melangee/SHPMA00373_44.html",
-  "img": "/img/pecas/p52-2.jpg",
+  "img": "img/pecas/p52-2.jpg",
   "styles": {
    "classico": 2.5,
    "bold": 1.5,
@@ -2732,7 +2732,7 @@ export const products = [
   "note": "Puffer bem fino e esquenta bem.",
   "intl": true,
   "url": "https://www.uniqlo.com/uk/en/products/E470067-000/00?colorDisplayCode=69&sizeDisplayCode=004",
-  "img": "/img/pecas/p52-3.jpg",
+  "img": "img/pecas/p52-3.jpg",
   "styles": {
    "classico": 1,
    "bold": 1.5,
@@ -2752,7 +2752,7 @@ export const products = [
   "note": "Opção de calça para conjunto.",
   "intl": false,
   "url": "https://www.zara.com/br/pt/blazer-de-terno-slim-fit-p05878253.html",
-  "img": "/img/pecas/p54-1.jpg",
+  "img": "img/pecas/p54-1.jpg",
   "styles": {
    "classico": 3,
    "bold": 0,
@@ -2772,7 +2772,7 @@ export const products = [
   "note": "Corte clássico.",
   "intl": false,
   "url": "https://www.zara.com/br/pt/blazer-regular-fit-de-terno-de-linho-e-la-p06570635.html",
-  "img": "/img/pecas/p54-2.jpg",
+  "img": "img/pecas/p54-2.jpg",
   "styles": {
    "classico": 4.5,
    "bold": 0,
@@ -2792,7 +2792,7 @@ export const products = [
   "note": "Clássico meio old school. Opção de calça para conjunto.",
   "intl": false,
   "url": "https://www.zara.com/br/pt/blazer-de-terno-100-la-p05185218.html?v1=555050342&v2=2510718",
-  "img": "/img/pecas/p55-1.jpg",
+  "img": "img/pecas/p55-1.jpg",
   "styles": {
    "classico": 4.5,
    "bold": 0,
@@ -2812,7 +2812,7 @@ export const products = [
   "note": "Opção de calça para conjunto.",
   "intl": false,
   "url": "https://www.zara.com/br/pt/blazer-de-terno-100-linho-p04410410.html?v1=546154371&v2=2510718",
-  "img": "/img/pecas/p55-2.jpg",
+  "img": "img/pecas/p55-2.jpg",
   "styles": {
    "classico": 3,
    "bold": 0,
@@ -2832,7 +2832,7 @@ export const products = [
   "note": "Opção de calça para conjunto.",
   "intl": false,
   "url": "https://www.zara.com/br/pt/blazer-de-terno-com-la-p04972050.html?v1=546004266&v2=2510718",
-  "img": "/img/pecas/p55-3.jpg",
+  "img": "img/pecas/p55-3.jpg",
   "styles": {
    "classico": 4.5,
    "bold": 0,
@@ -2852,7 +2852,7 @@ export const products = [
   "note": "Opção de calça para conjunto.",
   "intl": false,
   "url": "https://www.zara.com/br/pt/blazer-de-terno-confort-p01564660.html?v1=546185671&v2=2510718",
-  "img": "/img/pecas/p55-4.jpg",
+  "img": "img/pecas/p55-4.jpg",
   "styles": {
    "classico": 3,
    "bold": 0,
@@ -2872,7 +2872,7 @@ export const products = [
   "note": "Clássico. Opção de calça para conjunto.",
   "intl": false,
   "url": "https://www.zara.com/br/pt/blazer-de-terno-xadrez-com-la-p05180439.html?v1=548181303",
-  "img": "/img/pecas/p56-1.jpg",
+  "img": "img/pecas/p56-1.jpg",
   "styles": {
    "classico": 4.5,
    "bold": 0,
@@ -2892,7 +2892,7 @@ export const products = [
   "note": "Caro pelo tecido, mas acabamentos e cortes ótimos.",
   "intl": false,
   "url": "https://www.zak.com.br/loja/terno/costume/costume-modern-blend-navy-12?cor=1664&cornome=NAVY%2012",
-  "img": "/img/pecas/p56-2.jpg",
+  "img": "img/pecas/p56-2.jpg",
   "styles": {
    "classico": 3,
    "bold": 0,
@@ -2912,7 +2912,7 @@ export const products = [
   "note": "Opção de calça para conjunto.",
   "intl": false,
   "url": "https://www.zak.com.br/loja/terno/terno-s120-bristol-cinza-claro-62?cor=1728&cornome=CINZA%20CLARO%2062",
-  "img": "/img/pecas/p56-3.jpg",
+  "img": "img/pecas/p56-3.jpg",
   "styles": {
    "classico": 4.5,
    "bold": 0,
@@ -2932,7 +2932,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zapalla.com.br/blazer-veludo-cotele-charuto/p",
-  "img": "/img/pecas/p57-1.jpg",
+  "img": "img/pecas/p57-1.jpg",
   "styles": {
    "classico": 3,
    "bold": 1,
@@ -2952,7 +2952,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zapalla.com.br/blazer-malha-marinho-mescla-escuro/p",
-  "img": "/img/pecas/p57-2.jpg",
+  "img": "img/pecas/p57-2.jpg",
   "styles": {
    "classico": 3,
    "bold": 0,
@@ -2972,7 +2972,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.richards.com.br/produto/blazer-puro-linho-lift-marinho-166331",
-  "img": "/img/pecas/p57-3.jpg",
+  "img": "img/pecas/p57-3.jpg",
   "styles": {
    "classico": 3,
    "bold": 0,
@@ -2992,7 +2992,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zak.com.br/722225-blazer-masculino-s120-plaid-chumbo-63?cor=1729&cornome=CHUMBO%2063",
-  "img": "/img/pecas/p57-4.jpg",
+  "img": "img/pecas/p57-4.jpg",
   "styles": {
    "classico": 4.5,
    "bold": 0,
@@ -3012,7 +3012,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.brooksfield.com.br/paleto-xadrez-gold-ptg-plrecfa25010-p2501977?v=2501978",
-  "img": "/img/pecas/p58-1.jpg",
+  "img": "img/pecas/p58-1.jpg",
   "styles": {
    "classico": 4.5,
    "bold": 0,
@@ -3032,7 +3032,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.brooksfield.com.br/paleto-la-fantasia-gold-ptg-plrecfa23026-p2368612?v=2368613",
-  "img": "/img/pecas/p58-2.jpg",
+  "img": "img/pecas/p58-2.jpg",
   "styles": {
    "classico": 4.5,
    "bold": 0,
@@ -3052,7 +3052,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.brooksfield.com.br/paleto-s120-jaquetao-slim-liso-gold-plsfcfa24013-p2491639?v=2491640",
-  "img": "/img/pecas/p58-3.jpg",
+  "img": "img/pecas/p58-3.jpg",
   "styles": {
    "classico": 4.5,
    "bold": 0,
@@ -3072,7 +3072,7 @@ export const products = [
   "note": "",
   "intl": true,
   "url": "https://suitsupply.com/en-gb/men/jackets/navy-checked-tailored-fit-havana-blazer/C2106.html",
-  "img": "/img/pecas/p59-1.jpg",
+  "img": "img/pecas/p59-1.jpg",
   "styles": {
    "classico": 4.5,
    "bold": 0,
@@ -3092,7 +3092,7 @@ export const products = [
   "note": "",
   "intl": true,
   "url": "https://suitsupply.com/en-gb/men/jackets/mid-brown-herringbone-relaxed-fit-roma-blazer/BBL10026MB1.html",
-  "img": "/img/pecas/p59-2.jpg",
+  "img": "img/pecas/p59-2.jpg",
   "styles": {
    "classico": 4.5,
    "bold": 0,
@@ -3112,7 +3112,7 @@ export const products = [
   "note": "",
   "intl": true,
   "url": "https://suitsupply.com/en-gb/men/jackets/mid-grey-tailored-fit-havana-suit-jacket/C6906.html",
-  "img": "/img/pecas/p59-3.jpg",
+  "img": "img/pecas/p59-3.jpg",
   "styles": {
    "classico": 4.5,
    "bold": 0,
@@ -3132,7 +3132,7 @@ export const products = [
   "note": "",
   "intl": true,
   "url": "https://www.boggi.com/en_GB/navy-blue-super-130-wool-jacket-BO23C0016.html?dwvar_BO23C0016_color=NAVY",
-  "img": "/img/pecas/p59-4.jpg",
+  "img": "img/pecas/p59-4.jpg",
   "styles": {
    "classico": 4.5,
    "bold": 0,
@@ -3152,7 +3152,7 @@ export const products = [
   "note": "",
   "intl": true,
   "url": "https://gb.canali.com/navy-blue-wool-and-silk-double-breasted-jacket-with-a-modern-fit-15486cu06189301/p",
-  "img": "/img/pecas/p60-1.jpg",
+  "img": "img/pecas/p60-1.jpg",
   "styles": {
    "classico": 4.5,
    "bold": 0,
@@ -3172,7 +3172,7 @@ export const products = [
   "note": "",
   "intl": true,
   "url": "https://gb.canali.com/modern-fit-prince-of-wales-blue-wool-kei-jacket-23275cf06203302/p",
-  "img": "/img/pecas/p60-2.jpg",
+  "img": "img/pecas/p60-2.jpg",
   "styles": {
    "classico": 4.5,
    "bold": 0,
@@ -3192,7 +3192,7 @@ export const products = [
   "note": "",
   "intl": true,
   "url": "https://www.brioni.com/en/gb/pr/navy-blue-silk-and-cashmere-jersey-jacket-UJVV0LOE6134100?from=search",
-  "img": "/img/pecas/p60-3.jpg",
+  "img": "img/pecas/p60-3.jpg",
   "styles": {
    "classico": 4.5,
    "bold": 0,
@@ -3212,7 +3212,7 @@ export const products = [
   "note": "",
   "intl": true,
   "url": "https://www.zegna.com/uk-en/ready-to-wear/blazers/product.navy-blue-wool-and-silk-jacket.22475627/",
-  "img": "/img/pecas/p60-4.jpg",
+  "img": "img/pecas/p60-4.jpg",
   "styles": {
    "classico": 4.5,
    "bold": 0,
@@ -3232,7 +3232,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.riachuelo.com.br/calca-sarja-masculina-reta-classica-bege-pool-jeans-15777731_sku_sku",
-  "img": "/img/pecas/p62-1.jpg",
+  "img": "img/pecas/p62-1.jpg",
   "styles": {
    "classico": 1,
    "bold": 1,
@@ -3252,7 +3252,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.cea.com.br/calca-reta-masculina-de-sarja-preta-1117849-preto/p",
-  "img": "/img/pecas/p62-2.jpg",
+  "img": "img/pecas/p62-2.jpg",
   "styles": {
    "classico": 1,
    "bold": 1,
@@ -3272,7 +3272,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.hm.com.br/calca-jeans-de-modelagem-folgada-1316883002-135299/p",
-  "img": "/img/pecas/p62-3.jpg",
+  "img": "img/pecas/p62-3.jpg",
   "styles": {
    "classico": 1,
    "bold": 1,
@@ -3292,7 +3292,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.hm.com.br/calca-jeans-relaxed-1291108003-97409/p",
-  "img": "/img/pecas/p63-1.jpg",
+  "img": "img/pecas/p63-1.jpg",
   "styles": {
    "classico": 1,
    "bold": 1,
@@ -3312,7 +3312,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/calca-fluida-relaxed-fit-p08574311.html?v1=546134732&v2=2510583",
-  "img": "/img/pecas/p63-2.jpg",
+  "img": "img/pecas/p63-2.jpg",
   "styles": {
    "classico": 1,
    "bold": 1,
@@ -3332,7 +3332,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/jeans-regular-fit-p04060440.html?v1=546128535&v2=2510604",
-  "img": "/img/pecas/p63-3.jpg",
+  "img": "img/pecas/p63-3.jpg",
   "styles": {
    "classico": 1,
    "bold": 1,
@@ -3352,7 +3352,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/jeans-reta-p01300525.html?v1=552855174&v2=2510604",
-  "img": "/img/pecas/p63-4.jpg",
+  "img": "img/pecas/p63-4.jpg",
   "styles": {
    "classico": 1,
    "bold": 1,
@@ -3372,7 +3372,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/calca-chinos-denim-barrel-fit-p04470344.html?v1=549311464&v2=2510604",
-  "img": "/img/pecas/p64-1.jpg",
+  "img": "img/pecas/p64-1.jpg",
   "styles": {
    "classico": 1,
    "bold": 1,
@@ -3392,7 +3392,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.levi.com.br/calca-jeans-levis-568-loose-straight-lavagem-escura-290370078-624447/p",
-  "img": "/img/pecas/p64-2.jpg",
+  "img": "img/pecas/p64-2.jpg",
   "styles": {
    "classico": 1,
    "bold": 1,
@@ -3412,7 +3412,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.levi.com.br/calca-jeans-levis-501-original-lavagem-escura-005010101-4630350/p",
-  "img": "/img/pecas/p64-3.jpg",
+  "img": "img/pecas/p64-3.jpg",
   "styles": {
    "classico": 1,
    "bold": 1,
@@ -3432,7 +3432,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.levi.com.br/calca-jeans-levis-527-slim-boot-preta-48943/p",
-  "img": "/img/pecas/p64-4.jpg",
+  "img": "img/pecas/p64-4.jpg",
   "styles": {
    "classico": 1,
    "bold": 3,
@@ -3452,7 +3452,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.highstil.com.br/products/calca-chino-comfort-azul-marinho-013794-r046",
-  "img": "/img/pecas/p65-1.jpg",
+  "img": "img/pecas/p65-1.jpg",
   "styles": {
    "classico": 1,
    "bold": 1,
@@ -3472,7 +3472,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.highstil.com.br/products/calca-jeans-comfort-lavagem-escura-014187-h098",
-  "img": "/img/pecas/p65-2.jpg",
+  "img": "img/pecas/p65-2.jpg",
   "styles": {
    "classico": 1,
    "bold": 1,
@@ -3492,7 +3492,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/calca-de-perna-larga-com-pregas-p02634203.html?v1=546149321&v2=2510583",
-  "img": "/img/pecas/p67-1.jpg",
+  "img": "img/pecas/p67-1.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -3512,7 +3512,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/calca-de-terno-estrutura-100-la-p01409904.html?v1=561079639&v2=2510583",
-  "img": "/img/pecas/p67-2.jpg",
+  "img": "img/pecas/p67-2.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -3532,7 +3532,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/calca-regular-fit-100-la-p04579156.html?v1=582553352&v2=2510583",
-  "img": "/img/pecas/p68-1.jpg",
+  "img": "img/pecas/p68-1.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -3552,7 +3552,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/calca-fluida-relaxed-fit-p08574311.html?v1=546134732&v2=2510583",
-  "img": "/img/pecas/p68-2.jpg",
+  "img": "img/pecas/p68-2.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -3572,7 +3572,7 @@ export const products = [
   "note": "Mix esportivo + clássico que funciona: arrumado sem ser careta.",
   "intl": false,
   "url": "https://www.zara.com/br/pt/calca-de-cintura-jogger-confort-p05805700.html?v1=546143493&v2=2510583",
-  "img": "/img/pecas/p68-3.jpg",
+  "img": "img/pecas/p68-3.jpg",
   "styles": {
    "classico": 2,
    "bold": 0,
@@ -3592,7 +3592,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.highstil.com.br/products/calca-alfaiataria-la-xadrez-slim-fit-cinza-014087-r201",
-  "img": "/img/pecas/p69-1.jpg",
+  "img": "img/pecas/p69-1.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -3612,7 +3612,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://buckmanbck.com.br/collections/calcas/products/calca-social-pv-xadrez-marinho-noite-1024",
-  "img": "/img/pecas/p69-2.jpg",
+  "img": "img/pecas/p69-2.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -3632,7 +3632,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.shopvilaromana.com.br/calca-alfaiataria-azul-marinho-com-fivela-lateral-marinho-4046pvc00002-590/p",
-  "img": "/img/pecas/p69-3.jpg",
+  "img": "img/pecas/p69-3.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -3652,7 +3652,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.shopvilaromana.com.br/calca-de-linho-com-viscose-azul-marinho-calca-de-linho-com-viscose-azul-marinho-4046llc00001-590/p",
-  "img": "/img/pecas/p69-4.jpg",
+  "img": "img/pecas/p69-4.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 0,
@@ -3672,7 +3672,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.cnsonline.com.br/products/sapato-casual-masculino-driver-cns-clark-02-camurca-preto-0001-5532",
-  "img": "/img/pecas/p71-1.jpg",
+  "img": "img/pecas/p71-1.jpg",
   "styles": {
    "classico": 3,
    "bold": 1,
@@ -3692,7 +3692,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.cnsonline.com.br/products/sapato-casual-masculino-loafer-cns-lorenzo-01-mouro-2979-5573",
-  "img": "/img/pecas/p71-2.jpg",
+  "img": "img/pecas/p71-2.jpg",
   "styles": {
    "classico": 4,
    "bold": 1,
@@ -3712,7 +3712,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.cnsonline.com.br/products/sapato-social-masculino-tassel-loafer-cns-ralph-03-conhaque-0081-5384",
-  "img": "/img/pecas/p71-3.jpg",
+  "img": "img/pecas/p71-3.jpg",
   "styles": {
    "classico": 4,
    "bold": 1,
@@ -3732,7 +3732,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.cnsonline.com.br/products/bota-casual-masculina-chelsea-cns-190001-preto-0001-3394",
-  "img": "/img/pecas/p72-1.jpg",
+  "img": "img/pecas/p72-1.jpg",
   "styles": {
    "classico": 2.5,
    "bold": 3,
@@ -3752,7 +3752,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/mocassim-de-couro-com-tira-p12649820.html?v1=546177345&v2=2531236",
-  "img": "/img/pecas/p72-2.jpg",
+  "img": "img/pecas/p72-2.jpg",
   "styles": {
    "classico": 4,
    "bold": 1,
@@ -3772,7 +3772,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/mocassim-de-couro-antifaz-p12617720.html?v1=546158902&v2=2531236",
-  "img": "/img/pecas/p72-3.jpg",
+  "img": "img/pecas/p72-3.jpg",
   "styles": {
    "classico": 4,
    "bold": 1,
@@ -3792,7 +3792,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.zara.com/br/pt/bota-de-couro-com-cadarcos-p12073720.html?v1=584965954&v2=2531213",
-  "img": "/img/pecas/p73-1.jpg",
+  "img": "img/pecas/p73-1.jpg",
   "styles": {
    "classico": 2,
    "bold": 4,
@@ -3812,7 +3812,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.louie.com.br/loja/bota-masculina-albion-cafe",
-  "img": "/img/pecas/p73-2.jpg",
+  "img": "img/pecas/p73-2.jpg",
   "styles": {
    "classico": 2.5,
    "bold": 3,
@@ -3832,7 +3832,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.louie.com.br/loja/bota-masculina-chelsea-apsa-preta",
-  "img": "/img/pecas/p73-3.jpg",
+  "img": "img/pecas/p73-3.jpg",
   "styles": {
    "classico": 2.5,
    "bold": 3,
@@ -3852,7 +3852,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.louie.com.br/loja/bota-masculina-shoto-cafe",
-  "img": "/img/pecas/p74-1.jpg",
+  "img": "img/pecas/p74-1.jpg",
   "styles": {
    "classico": 2,
    "bold": 4,
@@ -3872,7 +3872,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.louie.com.br/loja/sapato-social-loafer-cave-cafe",
-  "img": "/img/pecas/p74-2.jpg",
+  "img": "img/pecas/p74-2.jpg",
   "styles": {
    "classico": 4,
    "bold": 1,
@@ -3892,7 +3892,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.louie.com.br/loja/sapato-social-oxford-bulle-preto",
-  "img": "/img/pecas/p74-3.jpg",
+  "img": "img/pecas/p74-3.jpg",
   "styles": {
    "classico": 4,
    "bold": 1,
@@ -3912,7 +3912,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.wallford.com.br/produto/sapato-double-monk-strap-brown/",
-  "img": "/img/pecas/p75-1.jpg",
+  "img": "img/pecas/p75-1.jpg",
   "styles": {
    "classico": 4,
    "bold": 1,
@@ -3932,7 +3932,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.wallford.com.br/produto/bota-chelsea-boot-brown/",
-  "img": "/img/pecas/p75-2.jpg",
+  "img": "img/pecas/p75-2.jpg",
   "styles": {
    "classico": 2.5,
    "bold": 3,
@@ -3952,7 +3952,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.wallford.com.br/produto/sapato-oxford-classic-cap-toe-duplo-brown/",
-  "img": "/img/pecas/p75-3.jpg",
+  "img": "img/pecas/p75-3.jpg",
   "styles": {
    "classico": 4,
    "bold": 1,
@@ -3972,7 +3972,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.louie.com.br/loja/sapato-social-monk-strap-barlee",
-  "img": "/img/pecas/p76-1.jpg",
+  "img": "img/pecas/p76-1.jpg",
   "styles": {
    "classico": 4,
    "bold": 1,
@@ -3992,7 +3992,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.ricardoalmeida.com.br/collections/botas/products/bota-coturno-com-recorte-preto-50005-96585",
-  "img": "/img/pecas/p76-2.jpg",
+  "img": "img/pecas/p76-2.jpg",
   "styles": {
    "classico": 2,
    "bold": 4,
@@ -4012,7 +4012,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.wallford.com.br/produto/sapato-loafer-neo-tassel-brown/",
-  "img": "/img/pecas/p76-3.jpg",
+  "img": "img/pecas/p76-3.jpg",
   "styles": {
    "classico": 4,
    "bold": 1,
@@ -4032,7 +4032,7 @@ export const products = [
   "note": "Um dos melhores custos-benefícios de sapato masculino na Europa.",
   "intl": true,
   "url": "https://www.bexley.com/derybrook-bitter-chocolate-suede-0179600y.html",
-  "img": "/img/pecas/p77-1.jpg",
+  "img": "img/pecas/p77-1.jpg",
   "styles": {
    "classico": 2,
    "bold": 1,
@@ -4052,7 +4052,7 @@ export const products = [
   "note": "",
   "intl": true,
   "url": "https://www.bexley.com/dervio-light-taupe-suede-0165901g.html",
-  "img": "/img/pecas/p77-2.jpg",
+  "img": "img/pecas/p77-2.jpg",
   "styles": {
    "classico": 2,
    "bold": 0,
@@ -4072,7 +4072,7 @@ export const products = [
   "note": "Um caminho sem volta: quem ama não quer outro.",
   "intl": false,
   "url": "https://www.bexley.com/picadilly-black-01700k.html",
-  "img": "/img/pecas/p78-1.jpg",
+  "img": "img/pecas/p78-1.jpg",
   "styles": {
    "classico": 4,
    "bold": 0,
@@ -4092,7 +4092,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.bexley.com/keystone-ii-gomme-chocolate-02004008.html",
-  "img": "/img/pecas/p78-2.jpg",
+  "img": "img/pecas/p78-2.jpg",
   "styles": {
    "classico": 2,
    "bold": 3,
@@ -4112,7 +4112,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.bexley.com/bergame-patin-black-0112300k.html",
-  "img": "/img/pecas/p78-3.jpg",
+  "img": "img/pecas/p78-3.jpg",
   "styles": {
    "classico": 2.5,
    "bold": 2,
@@ -4132,7 +4132,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.bexley.com/picadilly-black-01700k.html",
-  "img": "/img/pecas/p79-1.jpg",
+  "img": "img/pecas/p79-1.jpg",
   "styles": {
    "classico": 4,
    "bold": 0,
@@ -4152,7 +4152,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.bexley.com/seacrest-ii-navy-suede-01096016.html",
-  "img": "/img/pecas/p79-2.jpg",
+  "img": "img/pecas/p79-2.jpg",
   "styles": {
    "classico": 3,
    "bold": 0,
@@ -4172,7 +4172,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.drmartens.com/uk/en_gb/vintage-1460-quilon-leather-ankle-boots-black/p/12308001?utm_source=linkshare&utm_medium=affiliate&utm_campaign=VqqTHYs0Frg&utm_content=15&utm_term=UKNetwork&ranMID=41462&ranLoyalty=0&ranEAID=VqqTHYs0Frg&ranSiteID=VqqTHYs0Frg-n1k28CPHjbwg5rEuTtQ6kg",
-  "img": "/img/pecas/p80-1.jpg",
+  "img": "img/pecas/p80-1.jpg",
   "styles": {
    "classico": 2,
    "bold": 3,
@@ -4192,7 +4192,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.drmartens.com/uk/en_gb/2976-ambassador-soft-leather-chelsea-boots-black/p/31989001",
-  "img": "/img/pecas/p80-2.jpg",
+  "img": "img/pecas/p80-2.jpg",
   "styles": {
    "classico": 2,
    "bold": 3,
@@ -4212,7 +4212,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "https://www.drmartens.com/uk/en_gb/1461-ambassador-soft-leather-oxford-shoes-black/p/31994001",
-  "img": "/img/pecas/p80-3.jpg",
+  "img": "img/pecas/p80-3.jpg",
   "styles": {
    "classico": 2,
    "bold": 3,
@@ -4232,7 +4232,7 @@ export const products = [
   "note": "Híbrido lindo.",
   "intl": false,
   "url": "https://www.loake.com/product/petergate-scorched-walnut/",
-  "img": "/img/pecas/p81-1.jpg",
+  "img": "img/pecas/p81-1.jpg",
   "styles": {
    "classico": 3.5,
    "bold": 3,
@@ -4252,7 +4252,7 @@ export const products = [
   "note": "Marca inglesa com mais de 140 anos de tradição. Difícil errar.",
   "intl": false,
   "url": "https://www.loake.com/product/chatsworth-waxy-black/",
-  "img": "/img/pecas/p81-2.jpg",
+  "img": "img/pecas/p81-2.jpg",
   "styles": {
    "classico": 2.5,
    "bold": 2,
@@ -4272,7 +4272,7 @@ export const products = [
   "note": "Amo esse tipo de couro “queimado”.",
   "intl": false,
   "url": "https://www.loake.com/product/petergate-scorched-walnut/",
-  "img": "/img/pecas/p81-3.jpg",
+  "img": "img/pecas/p81-3.jpg",
   "styles": {
    "classico": 2,
    "bold": 1,
@@ -4292,7 +4292,7 @@ export const products = [
   "note": "Church’s e Crockett: sem erro, sapatos para a vida toda.",
   "intl": true,
   "url": "https://www.church-footwear.com/gb/en/p/polished-binder-loafer/EDB027_9XV_F0ADY_F_000000",
-  "img": "/img/pecas/p82-1.jpg",
+  "img": "img/pecas/p82-1.jpg",
   "styles": {
    "classico": 2,
    "bold": 0,
@@ -4312,7 +4312,7 @@ export const products = [
   "note": "Sapatos para a vida toda.",
   "intl": true,
   "url": "https://www.crockettandjones.com/collections/all-mens-styles/products/argyll-darkbrown-wax-calf",
-  "img": "/img/pecas/p82-2.jpg",
+  "img": "img/pecas/p82-2.jpg",
   "styles": {
    "classico": 2,
    "bold": 0,
@@ -4332,7 +4332,7 @@ export const products = [
   "note": "Um dos meus modelos preferidos da vida: pé lindo, sexy e chic.",
   "intl": true,
   "url": "https://www.hermes.com/uk/en/product/monterey-loafer-H171435ZH02/",
-  "img": "/img/pecas/p82-3.jpg",
+  "img": "img/pecas/p82-3.jpg",
   "styles": {
    "classico": 2,
    "bold": 0,
@@ -4352,7 +4352,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s12-10.jpg",
+  "img": "img/refs/s12-10.jpg",
   "ref": true,
   "styles": {
    "classico": 3,
@@ -4373,7 +4373,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s12-11.jpg",
+  "img": "img/refs/s12-11.jpg",
   "ref": true,
   "styles": {
    "classico": 2.5,
@@ -4394,7 +4394,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s12-7.jpg",
+  "img": "img/refs/s12-7.jpg",
   "ref": true,
   "styles": {
    "classico": 2,
@@ -4415,7 +4415,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s12-8.jpg",
+  "img": "img/refs/s12-8.jpg",
   "ref": true,
   "styles": {
    "classico": 1.5,
@@ -4436,7 +4436,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s12-9.jpg",
+  "img": "img/refs/s12-9.jpg",
   "ref": true,
   "styles": {
    "classico": 3,
@@ -4457,7 +4457,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s21-11.jpg",
+  "img": "img/refs/s21-11.jpg",
   "ref": true,
   "styles": {
    "classico": 0,
@@ -4478,7 +4478,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s21-8.jpg",
+  "img": "img/refs/s21-8.jpg",
   "ref": true,
   "styles": {
    "classico": 0,
@@ -4499,7 +4499,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s31-1.jpg",
+  "img": "img/refs/s31-1.jpg",
   "ref": true,
   "styles": {
    "classico": 0,
@@ -4520,7 +4520,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s31-2.jpg",
+  "img": "img/refs/s31-2.jpg",
   "ref": true,
   "styles": {
    "classico": 0,
@@ -4541,7 +4541,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s31-3.jpg",
+  "img": "img/refs/s31-3.jpg",
   "ref": true,
   "styles": {
    "classico": 1,
@@ -4562,7 +4562,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s31-4.jpg",
+  "img": "img/refs/s31-4.jpg",
   "ref": true,
   "styles": {
    "classico": 0,
@@ -4583,7 +4583,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s31-5.jpg",
+  "img": "img/refs/s31-5.jpg",
   "ref": true,
   "styles": {
    "classico": 1,
@@ -4604,7 +4604,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s31-9.jpg",
+  "img": "img/refs/s31-9.jpg",
   "ref": true,
   "styles": {
    "classico": 0,
@@ -4625,7 +4625,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s38-2.jpg",
+  "img": "img/refs/s38-2.jpg",
   "ref": true,
   "styles": {
    "classico": 0,
@@ -4646,7 +4646,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s38-4.jpg",
+  "img": "img/refs/s38-4.jpg",
   "ref": true,
   "styles": {
    "classico": 0,
@@ -4667,7 +4667,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s38-1.jpg",
+  "img": "img/refs/s38-1.jpg",
   "ref": true,
   "styles": {
    "classico": 0,
@@ -4688,7 +4688,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s38-5.jpg",
+  "img": "img/refs/s38-5.jpg",
   "ref": true,
   "styles": {
    "classico": 0,
@@ -4709,7 +4709,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s38-9.jpg",
+  "img": "img/refs/s38-9.jpg",
   "ref": true,
   "styles": {
    "classico": 2,
@@ -4730,7 +4730,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s21-4.jpg",
+  "img": "img/refs/s21-4.jpg",
   "ref": true,
   "styles": {
    "classico": 0,
@@ -4751,7 +4751,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s21-9.jpg",
+  "img": "img/refs/s21-9.jpg",
   "ref": true,
   "styles": {
    "classico": 0,
@@ -4772,7 +4772,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s21-7.jpg",
+  "img": "img/refs/s21-7.jpg",
   "ref": true,
   "styles": {
    "classico": 0,
@@ -4793,7 +4793,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s31-10.jpg",
+  "img": "img/refs/s31-10.jpg",
   "ref": true,
   "styles": {
    "classico": 0,
@@ -4814,7 +4814,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s12-6.jpg",
+  "img": "img/refs/s12-6.jpg",
   "ref": true,
   "styles": {
    "classico": 2,
@@ -4835,7 +4835,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s12-5.jpg",
+  "img": "img/refs/s12-5.jpg",
   "ref": true,
   "styles": {
    "classico": 3,
@@ -4856,7 +4856,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s21-5.jpg",
+  "img": "img/refs/s21-5.jpg",
   "ref": true,
   "styles": {
    "classico": 0,
@@ -4877,7 +4877,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s21-6.jpg",
+  "img": "img/refs/s21-6.jpg",
   "ref": true,
   "styles": {
    "classico": 0,
@@ -4898,7 +4898,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s31-6.jpg",
+  "img": "img/refs/s31-6.jpg",
   "ref": true,
   "styles": {
    "classico": 0,
@@ -4919,7 +4919,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s31-8.jpg",
+  "img": "img/refs/s31-8.jpg",
   "ref": true,
   "styles": {
    "classico": 0,
@@ -4940,7 +4940,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s12-3.jpg",
+  "img": "img/refs/s12-3.jpg",
   "ref": true,
   "styles": {
    "classico": 3,
@@ -4961,7 +4961,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s12-4.jpg",
+  "img": "img/refs/s12-4.jpg",
   "ref": true,
   "styles": {
    "classico": 2.5,
@@ -4982,7 +4982,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s38-10.jpg",
+  "img": "img/refs/s38-10.jpg",
   "ref": true,
   "styles": {
    "classico": 0,
@@ -5003,7 +5003,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s38-11.jpg",
+  "img": "img/refs/s38-11.jpg",
   "ref": true,
   "styles": {
    "classico": 0,
@@ -5024,7 +5024,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s38-6.jpg",
+  "img": "img/refs/s38-6.jpg",
   "ref": true,
   "styles": {
    "classico": 0,
@@ -5045,7 +5045,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s38-7.jpg",
+  "img": "img/refs/s38-7.jpg",
   "ref": true,
   "styles": {
    "classico": 0,
@@ -5066,7 +5066,7 @@ export const products = [
   "note": "",
   "intl": false,
   "url": "",
-  "img": "/img/refs/s38-3.jpg",
+  "img": "img/refs/s38-3.jpg",
   "ref": true,
   "styles": {
    "classico": 1,
